@@ -1,0 +1,20 @@
+body {
+    background-color:#00ffff;
+     font-family:courier;
+     text-align:center;
+     padding:10px;
+     margin-right:5px;
+     text-decoration:none
+}
+
+h1{
+    color:black;
+}
+
+p{
+    color:black;
+}
+
+a{
+    color:black;
+}
